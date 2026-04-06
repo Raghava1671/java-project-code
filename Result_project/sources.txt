@@ -1,0 +1,4 @@
+C:\Users\LENOVO\Result_project\src\com\studentresult\dao\StudentDAO.java
+C:\Users\LENOVO\Result_project\src\com\studentresult\main\Main.java
+C:\Users\LENOVO\Result_project\src\com\studentresult\model\Student.java
+C:\Users\LENOVO\Result_project\src\com\studentresult\util\DatabaseConnection.java
